@@ -6,4 +6,4 @@ Some description!
 
 Watch tutorial on YT
 
-Changed in MAC again
+Removed a line
