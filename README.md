@@ -6,4 +6,8 @@ Some description!
 
 Watch tutorial on YT
 
+## Local Development
+
+1. Open index.html in your brwoser
+
 Removed a line
